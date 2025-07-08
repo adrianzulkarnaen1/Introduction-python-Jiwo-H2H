@@ -1,7 +1,7 @@
 # Introduction-python-Jiwo-H2H
 ## Background Problem
 ### Pemahaman dasar phyton dengan google colab
-### Input dari pengguna:
+### Input data pengguna:
 - Nama mahasiswa
 - NIM mahasiswa
 - Nilai ujian (dalam angka, 0–100)
